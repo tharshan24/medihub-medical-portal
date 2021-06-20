@@ -20,8 +20,8 @@ public class EMail {
 
     public void send(String to, String sub, String msg) {
         //Get properties object  
-        final String username = "medihub54@gmail.com";
-        final String password = "iigvzonwuknhhaxf";
+        final String username = "<your-system-email>";
+        final String password = "<your-system-email-password>";
 
         Properties props = new Properties();
         props.put("mail.smtp.host", "smtp.gmail.com");
@@ -53,7 +53,7 @@ public class EMail {
                 recipientAddress[counter] = new InternetAddress(recipient.trim());
                 counter++;
             }
-            message.setFrom(new InternetAddress("medihub54@gmail.com", "Medi Hub"));
+            message.setFrom(new InternetAddress("<your-system-email>", "Medi Hub"));
             message.setRecipients(
                     Message.RecipientType.TO,
                     recipientAddress
