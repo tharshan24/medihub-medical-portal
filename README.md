@@ -5,7 +5,7 @@ This acts as a web portal for the public, doctors, hospitals and pharmacies
 
 Usage
   - Source files of sytem inside /medihub folder. The rest are miscellaneous and resource files
-  - Have to change email configuration file with your system email and password int the palces "\<your-system-email> and \<your-system-email-password>
+  - Have to change email configuration file with your system email and password int the palces \<your-system-email> and \<your-system-email-password>
 
 Technologies used
   - Java
@@ -27,6 +27,7 @@ Features inlude
   - Registration and Login forms
   - Reporting users to admin
   
+Actor funtionalities
   - Public
     - E-Channelling
     - Medical records management
