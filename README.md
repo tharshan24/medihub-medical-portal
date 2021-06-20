@@ -17,15 +17,15 @@ Technologies used
 No frameworks were used except some javascript libraries
 
 Features inlude
-  # Deledicated dahsboard for each actors
-  # System Notifications
-  # Dedicated filters in all searches and report generations
-  # Personalized reports for all actors
-  # Profile management for each actors
-  # Pagination for reports and searches
-  # Autocomplete search box
-  # Registration and Login forms
-  # Reporting users to admin
+  - Deledicated dahsboard for each actors
+  - System Notifications
+  - Dedicated filters in all searches and report generations
+  - Personalized reports for all actors
+  - Profile management for each actors
+  - Pagination for reports and searches
+  - Autocomplete search box
+  - Registration and Login forms
+  - Reporting users to admin
   
   - Public
     - E-Channelling
@@ -39,25 +39,25 @@ Features inlude
     - Track orders
     - Online payment through paypal
     
-   Doctor
+  - Doctor
     - Write prescription
     - View Medical records of patient
     - Upocoming appointments
     - Appointment history
     - Create medication reminders for patients
 
-  Hospital
+  - Hospital
     - Create doctors
     - Link / Unlink Doctors
     - Create doctor availbilites
     - Appointment history
     
-  Pharmacy
+  - Pharmacy
     - View orders
     - Accept / Decline orders
     - CUpdate order status
 
-  Admin
+  - Admin
     - Manage / Approve / create doctors
     - Manage / Approve / create hospital
     - Manage / Approve / create pharamcies
