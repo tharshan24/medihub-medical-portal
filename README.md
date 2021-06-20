@@ -3,9 +3,9 @@
 This is done as a 2nd year group project in USCS conputer science course in 2020
 This acts as a web portal for the public, doctors, hospitals and pharmacies
 
-# Source files of sytem inside /medihub folder. The rest are miscellaneous and resource files
-
-# Have to change email configuration file with your system email and password int eh palces <your-system-email> and <your-system-email-password>
+Usage
+  - Source files of sytem inside /medihub folder. The rest are miscellaneous and resource files
+  - Have to change email configuration file with your system email and password int the palces "\<your-system-email> and \<your-system-email-password>
 
 Technologies used
   - Java
@@ -14,7 +14,7 @@ Technologies used
   - CSS
   - JavaScript
   
-  #No frameworks were used except some javascript libraries
+No frameworks were used except some javascript libraries
 
 Features inlude
   # Deledicated dahsboard for each actors
@@ -27,7 +27,7 @@ Features inlude
   # Registration and Login forms
   # Reporting users to admin
   
-  # Public
+  - Public
     - E-Channelling
     - Medical records management
     - Upocoming appointments
@@ -39,25 +39,25 @@ Features inlude
     - Track orders
     - Online payment through paypal
     
-   # Doctor
+   Doctor
     - Write prescription
     - View Medical records of patient
     - Upocoming appointments
     - Appointment history
     - Create medication reminders for patients
 
-  # Hospital
+  Hospital
     - Create doctors
     - Link / Unlink Doctors
     - Create doctor availbilites
     - Appointment history
     
-  # Pharmacy
+  Pharmacy
     - View orders
     - Accept / Decline orders
     - CUpdate order status
 
-  # Admin
+  Admin
     - Manage / Approve / create doctors
     - Manage / Approve / create hospital
     - Manage / Approve / create pharamcies
